@@ -27,7 +27,7 @@ internal static class NuSpec
 		        <dependency id="HarmonyX" version="2.10.1" exclude="Build,Analyzers" />
 		        <dependency id="Il2CppInterop.Common" version="1.4.3" exclude="Build,Analyzers" />
 		        <dependency id="Il2CppInterop.Runtime" version="1.4.3" exclude="Build,Analyzers" />
-		        <dependency id="LavaGang.MelonLoader" version="0.6.0" exclude="Build,Analyzers" />
+		        <dependency id="LavaGang.MelonLoader" version="0.6.4" exclude="Build,Analyzers" />
 		      </group>
 		    </dependencies>
 		  </metadata>
